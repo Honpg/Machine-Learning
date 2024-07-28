@@ -94,9 +94,13 @@ SVM(LINEAR)+ML(SVR_KNN_RF).ipynb
 We welcome contributions to this project! Please fork the repository and create a pull request with your changes. For major changes, please open an issue to discuss what you would like to change:
 
 **1.Fork the repository.**
+
 **2.Create a new branch for your feature or bug fix.**
+
 **3.Make your changes and commit them with clear messages.**
+
 **4.Push your changes to your forked repository.**
+
 **5.Submit a pull request with a description of your changes.**
 
 ## Acknowledgments
